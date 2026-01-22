@@ -57,12 +57,12 @@ footer[role="contentinfo"]{text-align:center;padding:20px;color:var(--muted);fon
   .upholstery-grid {
     grid-template-columns: repeat(2, 1fr);
   }
-
+}
 @media (max-width: 500px) {
   .upholstery-grid {
     grid-template-columns: 1fr;
   }
-
+}
 /* Upholstery Video Grid */
 .video-grid {
   display: grid;
@@ -85,6 +85,7 @@ footer[role="contentinfo"]{text-align:center;padding:20px;color:var(--muted);fon
     grid-template-columns: 1fr;
   }
 }
+
 
 
 
