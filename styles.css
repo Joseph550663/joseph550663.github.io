@@ -25,7 +25,6 @@ nav[aria-label="Main navigation"] a:focus, nav[aria-label="Main navigation"] a:h
 .hero h2{background:rgba(0,0,0,0.55);color:#fff;padding:18px;border-radius:10px;margin:0;font-size:clamp(1.25rem,3.5vw,2rem)}
 main{max-width:1000px;margin:20px auto;padding:0 12px 60px}
 .section{padding:20px;background:var(--card);margin:12px 0;border-radius:12px;box-shadow:0 1px 0 rgba(0,0,0,0.03)}
-.gallery img, .gallery video{width:50%;border-radius:12px;margin-top:10px;display:block;height: 250px;object-fit:cover}
 label{display:block;font-weight:600;margin-top:12px}
 input[type="text"], input[type="tel"], select, textarea, button{width:100%;padding:12px;margin-top:8px;border-radius:8px;border:1px solid #ccc;font-size:16px;font-family:inherit}
 input:focus, select:focus, textarea:focus, button:focus{outline:none;box-shadow:0 0 0 4px rgba(31,31,31,0.06);border-color:var(--accent)}
@@ -62,4 +61,5 @@ footer[role="contentinfo"]{text-align:center;padding:20px;color:var(--muted);fon
 
 
 }
+
 
