@@ -53,13 +53,11 @@ footer[role="contentinfo"]{text-align:center;padding:20px;color:var(--muted);fon
   box-shadow: 0 4px 10px rgba(0,0,0,0.08);
 }
 
-/* Tablet */
 @media (max-width: 900px) {
   .upholstery-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 
-/* Phone */
 @media (max-width: 500px) {
   .upholstery-grid {
     grid-template-columns: 1fr;
@@ -87,6 +85,7 @@ footer[role="contentinfo"]{text-align:center;padding:20px;color:var(--muted);fon
     grid-template-columns: 1fr;
   }
 }
+
 
 
 
